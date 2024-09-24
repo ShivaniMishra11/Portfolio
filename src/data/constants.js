@@ -8,7 +8,7 @@ export const Bio = {
     "As a dynamic and versatile software developer, I thrive on embracing new challenges and continuously expanding my expertise. Committed to excellence, I deliver high-impact solutions with a strong focus on quality. With a growth mindset and a proactive attitude, I am ready to contribute meaningfully and drive exceptional outcomes.",
   github: "https://github.com/ShivaniMishra11",
   resume:
-    "https://drive.google.com/file/d/1KCQtxZthrXy1iPr38S_jMpedEwbVltJe/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1c8XoqGZ_7ug2r-qEgne5NiP0bV41hlCX/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/shivani-mishra-463501263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
