@@ -102,7 +102,7 @@ export const experiences = [
     role: "Google Cloud Arcade Facilitators ",
     company: "Google Cloud",
     date: "July 2024 - Sep 2024",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio laborum modi dolore, expedita ex perferendis recusandae porro eos, ratione non nemo ab quibusdam doloremque fugit doloribus aliquid, ipsam molestias fuga dolorum provident cupiditate! Odio!", 
+    desc: "", 
     skills: [
       "Cloud",
       "Google cloud console",
